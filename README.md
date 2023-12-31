@@ -1,1 +1,2 @@
-# ChandanJyotiSarma_JS_Lab
+# quiz
+Simple JS app on quiz
